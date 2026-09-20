@@ -38,11 +38,7 @@ I care about code that is easy to understand, systems that are observable, and p
 ## Contribution journey
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tranthinh222/tranthinh222/output/github-contribution-grid-snake-dark.gif?v=3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tranthinh222/tranthinh222/output/github-contribution-grid-snake.gif?v=3" />
-    <img src="https://raw.githubusercontent.com/tranthinh222/tranthinh222/output/github-contribution-grid-snake.gif?v=3" alt="Animated contribution graph" width="100%" />
-  </picture>
+  <img src="./assets/contribution-snake.svg" alt="Animated contribution snake" width="100%" />
 </div>
 
 ## Let's connect
