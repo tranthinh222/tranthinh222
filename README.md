@@ -35,18 +35,13 @@ Design clearly  →  Build reliably  →  Ship confidently  →  Keep learning
 
 I care about code that is easy to understand, systems that are observable, and products that solve a real problem. Recent projects include e-commerce microservices, booking applications, and interactive games.
 
-## GitHub at a glance
+## Contribution journey
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tranthinh222&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tranthinh222&show_icons=true&hide_border=true&rank_icon=github&theme=default&bg_color=00000000" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=tranthinh222&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=00000000" alt="Thinh's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthinh222&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthinh222&layout=compact&hide_border=true&theme=default&bg_color=00000000&langs_count=6" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthinh222&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=6" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tranthinh222/tranthinh222/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tranthinh222/tranthinh222/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/tranthinh222/tranthinh222/output/github-contribution-grid-snake.svg" alt="Animated contribution graph" />
   </picture>
 </div>
 
